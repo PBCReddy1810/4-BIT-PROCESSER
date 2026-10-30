@@ -1,0 +1,22 @@
+# Git ignore for 4‑bit processor project
+# IDE / OS generated files
+*.vcd
+*.out
+*.log
+*.exe
+*.o
+*.obj
+*.dll
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+
+# VS Code / Visual Studio
+.vscode/
+*.code-workspace
+*.sln
+*.vcxproj*
+
+# Misc
+.idea/
